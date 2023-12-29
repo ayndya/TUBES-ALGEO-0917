@@ -18,7 +18,7 @@ Anggota Kelompok
 # Kalkulator Matriks
 
 Aplikasi ini dibuat untuk memenuhi salah Tugas Mata Kulaih Aljabar Geometri.
-Bahasa Pemrograman yang digunakan adalah Bahasa Javascripst ddan HTML serta CSS karena Aplikasi ini kami buat dengan berbasis WEB
+Bahasa Pemrograman yang digunakan adalah Bahasa Javascripst dan HTML serta CSS karena Aplikasi ini kami buat dengan berbasis WEB
 
 Program-program yang dibuat pada tugas ini :
 1. Menghitung solusi SPL dengan Metode Eliminasi Gauss dan Gauss-jordan
@@ -28,7 +28,7 @@ Program-program yang dibuat pada tugas ini :
 5.	Mengitung Determinan Matriks dengan Jumlah Matriks 2x2 dan 3x3
 
 ## Demo
-Untuk mencoba hasil pemrograman yang telah kami buat slahkan klik link dibawah ini.
+Untuk mencoba hasil pemrograman yang telah kami buat slahkan klik atau salin link dibawah ini.
 
 
 ```bash
