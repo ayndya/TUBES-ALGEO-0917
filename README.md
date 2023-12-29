@@ -1,9 +1,6 @@
 
 ## Tugas Besar Aljabar Geometri
 
-![App Screenshot](./asset/Kelompok%204-fotor-20231229104110.png)
-
-
 ## Kelompok 4
 
 Anggota Kelompok
