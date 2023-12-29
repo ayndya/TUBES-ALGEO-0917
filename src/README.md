@@ -1,7 +1,7 @@
 # Aplikasi Perhitungan Matriks
 
 ## Tim Pengembang
-![Kelompok MatrixGenius](url_gambar_kelompok)
+![Kelompok MatrixGenius](Kelompok 4.png)
 
 1. Nama Anggota 1
    - Peran: Front-end Developer
