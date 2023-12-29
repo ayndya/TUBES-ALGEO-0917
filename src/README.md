@@ -1,12 +1,14 @@
 
-# Bootstrap 5 Sidebar
+# Kalkulator Matriks
 
-The sidebar component lets users navigate through your website. Mostly sidebars are used in admin and user panels where users must have accessibility to navigating through the webpage with ease. 
+Aplikasi ini dibuat untuk memenuhi salah Tugas Mata Kulaih Aljabar Geometri.
+Bahasa Pemrograman yang digunakan adalah Bahasa Javascripst ddan HTML serta CSS karena Aplikasi ini kami buat dengan berbasis WEB
 
-Creating these sidebar components is really easy with Bootstrap 5. So, in this video, I have implemented a sidebar component that has toggle functionality with a sidebar navigation link.
+Program-program yang dibuat pada tugas ini :
+1. Menghitung solusi SPL dengan Metode Eliminasi Gauss dan Gauss-jordan\
+2.	Mengitung Penjumlahan dan Pengurangan Matriks
+3.	Mengitung Matriks Tranpose dengan Jumlah Matriks 2x2 dan 3x3
+4.	Mengitung Matriks Invers/balikan
+5.	Mengitung Determinan Matriks dengan Jumlah Matriks 2x2 dan 3x3
 
-## YouTube Video Link
-https://youtu.be/fFwT4vwZXhg
-
-![Logo](https://raw.githubusercontent.com/codzsword/bootstrap-sidebar-/main/Bootstrap%20sidebar%20tutorial.png)
 
