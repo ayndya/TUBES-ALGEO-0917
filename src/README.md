@@ -1,148 +1,34 @@
 
+## Tugas Besar Aljabar Geometri
+
+## Kelompok 4
+
+Anggota Kelompok
+
+- Abdul Ropi            10222110
+- Muhamad Nurul Awalin 10222149
+- Reni Khoerunnisa 10222091
+- Silvi Yani 10222127
+
+
+
 # Kalkulator Matriks
 
-Uji Coba Hasil Program
+Aplikasi ini dibuat untuk memenuhi salah Tugas Mata Kulaih Aljabar Geometri.
+Bahasa Pemrograman yang digunakan adalah Bahasa Javascripst ddan HTML serta CSS karena Aplikasi ini kami buat dengan berbasis WEB
 
+Program-program yang dibuat pada tugas ini :
+1. Menghitung solusi SPL dengan Metode Eliminasi Gauss dan Gauss-jordan
+2.	Mengitung Penjumlahan dan Pengurangan Matriks
+3.	Mengitung Matriks Tranpose dengan Jumlah Matriks 2x2 dan 3x3
+4.	Mengitung Matriks Invers/balikan
+5.	Mengitung Determinan Matriks dengan Jumlah Matriks 2x2 dan 3x3
 
-## Hitung Matriks
+## Demo
+Untuk mencoba hasil pemrograman yang telah kami buat slahkan klik link dibawah ini.
 
-Penjumlahan
 
 ```bash
-Matriks A
-  | 2 3 |
-  | 2 1 |
-  | 5 1 |
-
-Matriks B
-  | 2 6 |
-  | 2 3 |
-  | 2 1 |
-
+  https://algeo.muhammadnurul8.repl.co/
 ```
 
-
-## Screenshots
-
-![App Screenshot](./Asset/Screenshot_3.jpg)
-
-
-Pengurangan
-
-```bash
-Matriks A
-  | 2 4 3 |
-  | 2 3 1 |
-  | 5 3 1 |
-
-Matriks B
-  | 2 5 3 |
-  | 2 4 1 |
-  | 3 2 1 |
-
-```
-
-
-## Screenshots
-
-![App Screenshot](./Asset/Pengurangan.jpg)
-
-## Matriks Tranpose
-
-Matriks 2x2
-
-```bash
-Matriks 
-  | 4 4 |
-  | 2 2 |
-
-
-```
-
-
-## Screenshots
-
-![App Screenshot](./Asset/Tranpose%202x2.jpg)
-
-Matriks 2x2
-
-```bash
-Matriks 
-  | 3 6 3 |
-  | 1 3 7 |
-  | 4 3 2 |
-
-
-```
-
-
-## Screenshots
-
-![App Screenshot](./Asset/Tranpose%203x3.jpg)
-
-## Matriks Balikan
-
-Matriks 2x2
-
-```bash
-Matriks 
-  | 6 2 |
-  | 8 2 |
-
-
-```
-
-
-## Screenshots
-
-![App Screenshot](./Asset/Invers%20Matriks.jpg)
-
-## Determinan
-
-Matriks 2x2
-
-```bash
-Matriks 
-  | 6 3 |
-  | 5 2 |
-
-
-```
-
-
-## Screenshots
-
-![App Screenshot](./Asset/Invers%20Matriks.jpg)
-
-Matriks 3x3
-
-```bash
-Matriks 
-  | 4 6 3 |
-  | 2 4 2 |
-  | 2 3 2 |
-
-
-```
-
-
-## Screenshots
-
-![App Screenshot](./Asset/Invers%20Matriks.jpg)
-
-## Sistem Persamaan Linear
-
-Matriks 
-
-```bash
-Matriks 
-  | 4 2 1 |
-  | 3 2 1 |
-
-
-```
-
-
-## Screenshots
-
-![App Screenshot](./Asset/Invers%20Matriks.jpg)
