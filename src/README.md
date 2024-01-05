@@ -29,6 +29,6 @@ Untuk mencoba hasil pemrograman yang telah kami buat slahkan klik link dibawah i
 
 
 ```bash
-  https://algeo.muhammadnurul8.repl.co/
+  https://ayndya.github.io/Algeojabar.github.io/
 ```
 
