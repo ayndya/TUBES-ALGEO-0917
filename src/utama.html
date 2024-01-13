@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman Utama</title>
+    <style>
+        body {
+        background: url(./img/fc37a832ba5fe504962181e7dcfa370c-removebg-preview.png);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #282c35;
+            color: #fff;
+        }
+
+        header {
+            background-color: #1e222b;
+            color: #61dafb;
+            text-align: center;
+            padding: 5px;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #383e4a;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+        }
+
+        h2 {
+            color: #61dafb;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #ccc;
+        }
+
+        .p .br{
+            line-height: 5;
+        }
+
+        .member {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .member div {
+            text-align: center;
+            margin: 15px;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .member div:hover {
+            transform: scale(1.1);
+        }
+
+        .member img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 10px;
+            border: 5px solid #1e222b;
+            transition: border 0.3s ease-in-out;
+        }
+
+        .member div:hover img {
+            border: 5px solid #61dafb;
+        }
+        .start-button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #61dafb;
+            color: #282c35;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .start-button:hover {
+            background-color: #457eb5;
+            color: white;
+            
+        }
+
+        
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Aljabar Geometri</h1>
+    </header>
+
+    <section>
+        <h2>KALKULATOR MATRIKS</h2>
+        <p>
+            Aplikasi ini dibuat untuk memenuhi salah Tugas Mata Kuliah Aljabar Geometri.
+        </p>
+        <p>
+            Program-program yang dibuat pada aplikasi ini :
+            <br />1. Menghitung solusi SPL dengan Metode Eliminasi Gauss dan Gauss-jordan.
+            <br />2. Menghitung  Penjumlahan dan Pengurangan Matriks.
+            <br />3. Menghitung Matriks Tranpose dengan Jumlah Matriks 2x2 dan 3x3.
+            <br />4. Mengitung Matriks Invers/balikan.
+            <br />5.  Mengitung Determinan Matriks dengan Jumlah Matriks 2x2 dan 3x3.
+        </p>
+
+        <div class="member">
+            <div>
+                <img src="img/10.png" alt="Anggota 1">
+                <p>Muhamad Nurul Awalin</p>
+                <p>10222149</p>
+            </div>
+            <div>
+                <img src="img/7.png" alt="Anggota 2">
+                <p>Reni Khoerunnisa</p>
+                <p>10222091</p>
+            </div>
+            <div>
+                <img src="img/8.png" alt="Anggota 3">
+                <p>Silviyani</p>
+                <p>10222127</p>
+            </div>
+            <div>
+                <img src="img/9.png" alt="Anggota 4">
+                <p>Abdul Ropi</p>
+                <p>10222110</p>
+            </div>
+        </div>
+        <a href="index.html" class="start-button">Mulai Menghitung</a>
+    
+    </section>
+
+
+</body>
+</html>
